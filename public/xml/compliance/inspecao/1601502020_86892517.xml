@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rootelement>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>270</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em Análise aos dados do Sistema WebCont – Composição Analítica da conta 11202.994000, verificaram a posição do mês 06/2020, constataram que não havia Histórico de Pendências de Débitos de Empregados maior que 90 dias.MANAFI 19/1 - 2.2.19.2 a 2.2.19.4
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>270</RIP_NumGrupo>
+		<RIP_NumItem>2</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise aos dados do Sistema Proter, do período de Janeiro/2017 a 18/07/2020 constataram-se as seguintes pendências com mais de 90 dias:
+Pendencia(s) de Contabilização: 2 Pendência(s):
+Data da Pendência	Número do Objeto	CEP Entrega
+07/01/2020	DM328425860BR	75805-970
+07/08/2019	BL895898185BR	75830-970
+MANAFI 19/1 - 2.2.1; MANAFI 21/1 - Anexo 2
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>270</RIP_NumGrupo>
+		<RIP_NumItem>3</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise ao sistema SDE – Sistema de Depósito, na opção "Contabilização", Conciliação SMB x BDF – dados “Não Conciliados”, em 13/10/2020, referente ao período de 20/07/2020 a 13/10/2020, verificou-se a inexistência de divergências."MANAFI 3/3            MANAFI 3/3 - Anexo 1"
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>270</RIP_NumGrupo>
+		<RIP_NumItem>4</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise ao Relatório "Saldo de Numerário em relação ao Limite de Saldo", do sistema BDF, referente ao período de 08/2020 a 10/2020, constataram que não houve descumprimento do limite de saldo estabelecido para a unidade.MANAFI 3/2
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>271</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise à Planilha de Controle de Processos de Apuração de Extravios de Objetos Indenizados com Responsabilidade Definida, disponibilizada pela área de Segurança da Regional (CSEP/GO), do período de 08/01/2019 a 18/07/2020, constatou-se a existência de 7 processos pendentes de conclusão há mais de 90 dias sob responsabilidade da unidade, conforme relacionado a seguir:
+Número Objeto	Número Processo	Data Processo	Data Atualização	Última Atualização	Valor
+PP067635500BR	53191.004762/2018-89	08/02/2018	16/10/2020	----------	R$66,11
+PP381533204BR	53191.009782/2018-46	03/07/2018	01/08/2019	----------	R$32,11
+PP535279598BR	53191.009782/2018-46	29/07/2018	13/11/2019	----------	R$40,56
+DE852668018BR	53116.003494/2017-08	10/10/2017	16/10/2020	----------	R$33,78
+PO661517364BR	53116.003494/2017-08	21/10/2017	16/10/2020	----------	R$61,48
+PO716038626BR	53116.003494/2017-08	21/10/2017	16/10/2020	----------	R$84,15
+DV602196862BR	53116.002365/2017-94	14/06/2017	08/01/2019	Instrução	R$108,80
+MANCAT 14/3;  MANORG 11/11.
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>272</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>V</RIP_Resposta>
+		<RIP_Comentario>
+			Não foi possível analisar dado que o Equipamento da unidade não está configurado para acesso remoto.
+MANSEG 4/3
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>272</RIP_NumGrupo>
+		<RIP_NumItem>2</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			"Em análise aos dados do Relatório de “Arme e Desarme” do Sistema de Alarme do período de xxxxxxxxxx xxxxxxxxxxxxx, constatou-se que o sistema permaneceu desativado e fora de funcionamento nos períodos relacionados a seguir:
+            2 Ocorrências de desativação do alarme em períodos de finais de semana.
+
+            Evento Data Hora dia semana
+            Desarme 23/03/2019 07:37:37 Sábado
+            Desarme 07/03/2020 14:08:58 Sábado
+
+            Ref. Normativa: MANSEG 4/3; MANSEG 4/4 - 2.1.2.1, 2.1.2.2 e 2.1.4; MANSEG 4/2 - Anexo 4
+
+            Possíveis Consequências da Situação Encontrada: Vulnerabilidade aos ativos guardados na unidade
+            "
+
+"MANSEG 4/4 - 2.1.2.1, 2.1.2.2 e 2.1.4            MANSEG 4/2 - Anexo 4"
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>272</RIP_NumGrupo>
+		<RIP_NumItem>3</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Não foi possível avaliar dado que a unidade estava sem comunicação com a Central de Alarme Monitorado há 614 dias sendo que o último evento foi transmitido em : 11/10/2018.
+ou
+Em análise aos dados do Relatório de Arme/Desarme do Sistema de Alarme dos meses de janeiro/20 até julho/20, constatou-se a utilização da senha do empregado de matrícula 8.331.015-0, para abertura e fechamento da unidade.
+Entretanto, no período mencionado o empregado não se encontrava na unidade, o que indicava a prática de compartilhamento de senha de alarme para acesso à unidade.
+
+MANSEG 4/4 - 2.1.3; MANCAT 19/3 2.1.5,"b",
+Possíveis Consequências da Situação Encontrada: Vulnerabilidade aos ativos guardados na unidade.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>272</RIP_NumGrupo>
+		<RIP_NumItem>4</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			"Não foi possível acessar o sistema por meio do endereço de IP. Falha na conexão.  Não sendo possível determinar sobre o funcionamento das câmeras.
+
+            Ref. Normativa: MANSEG 4/5 - 2.1.1.2 a 2.1.1.6
+            Possíveis Consequências da Situação Encontrada: Vulnerabilidade aos objetos postais e demais ativos guardados na unidade.
+            "
+
+MANSEG 4/5 - 2.1.1.2 a 2.1.1.6
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>273</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise à relação de Processos de Apuração de Extravio de Bens Móveis Pendentes, de conclusão verificou-se que não constava itens pendentes da unidade inspecionada."MANPAT 5/1; MANPAT 5/2            MANPAT 5/3;            MANPAT 5/4            "
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>274</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise à Relação de Listas Pendentes do sistema SARA, consulta em 30/06/2020, e aos eventos registrados no sistema SRO, constatou-se que não havia pendência para a unidade inspecionada.MANCAT 16/28
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>275</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Em verificação aos dados disponíveis no Sistema Portal do SRO, LDI, do dia xxxxxxxxxxxxx, constataram-se as seguintes irregularidades relacionadas aos procedimentos  referente a entrega interna no que diz respeito aos prazos de guarda e à baixa no Sistema SRO:
+
+MANCAT 19/3; MANCAT 6/1 - Anexo 2 e MANDIS 9/3 - 2.4.5
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>276</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em inspeção análise aos dados do sistema ERP - GESTÃO DE LINHAS DE TRANSPORTE, não foi constatdo descumprimento dos procedimentos de embarque e desembarque da carga, na unidade inspecionada."MANDIS 3/1 - 2.4;            MANTRA 3/1 - ANEXO 4 - 1.5; 1.6; 1.7            MANTRA 2/1 - ANEXO 4 - 2.2; 2.3; 2.4            MANTRA 4/3,  2.2.1 a 2.2.8 (LTU)"
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise aos registros do sistema SGDO (Relatório Detalhado das Distribuições), período de 01/04/2020 a 03/06/2020, verificou-se que não havia inconsistências relacionadas aos lançamentos obrigatórios na unidade.MANDIS 3/2 - 2.9 e MANDIS 3/9 - 2.1
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>2</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise, por amostragem, às anotações registradas nas Imagens dos comprovantes de entrega e anotação disponíveis no sistema SRO, foram constatadas as seguintes inconsistências relacionadas aos procedimentos de entrega:
+Objeto	Data	Falha detectada
+OD139655130BR	29/07/2020	Falta o nº do objeto na Imagem
+PZ179943956BR	18/08/2020	Falta Assinatura do recebedor
+Foram avaliados 70 Imagens de Objetos, relativas ao período de 20/07/2020 até 20/08/2020, que representava 100 por cento, do total da amostra para o período mencionado, sendo que em 2,86 por cento, foram constatadas inconsistências.
+MANDIS 6/1 e MANDIS 6/1 - Anexo 2 e anexo 4
+Falta de Fidedignidade das Informações disponibilizadas em Sistemas Corporativo. Reclamações/Indenizações. Impossibilidade de identificar recebedor de Objeto Qualificado. Impossibilidade de apurar situações de atrasos/extravios.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>3</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>N</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise, por amostragem, às anotações registradas nas Imagens dos comprovantes de entrega e anotação disponíveis no sistema SRO, foram constatadas as seguintes inconsistências relacionadas aos procedimentos de entrega:
+Objeto	Data	Endereço LOEC	Local Baixa 1ª Tent.	Falha detectada
+DM202324322BR	24/07/2020			A Unidade não utiliza o SmartPhone
+PY714838972BR	24/07/2020			Endereço Loec indisponível para comparação
+PZ155325769BR	17/08/2020			Divergência de local previsto e baixado
+Foram avaliados 62 Objetos, relativo ao período de 20/07/2020 até 20/08/2020, que representava 100 por cento, do total da amostra para o período mencionado, sendo que em 4,84 por cento, constataram inconsistências.
+MANDIS 6/1 e MANDIS 6/1 - anexo 4
+Escreva aqui as possíveis consequências da situação encontrada em caso de não conformidade desse item.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes>Doravante, atentar para os procedimentos previstos nos normativos referenciados neste apontamento. Informar em sua manifestação, a justificativa para ocorrência da falha detectada, Causa. Apresentar Plano de Ação com indicação de prazo para regularização da situação apontada. Anexar os comprovantes de regularização no sistema SNCI em formato PDF, quando couber. </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>4</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise aos dados do sistema PORTAL DO SRO, em 09/07/2020, constatou-se a inexistência de pendências de Baixa atribuídas à unidade.MANDIS 3/9
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>5</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>V</RIP_Resposta>
+		<RIP_Comentario>
+			Avaliado no Item 277.6 a Unidade Não está provida de Supervisor.
+MANENC 16/3
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>6</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em análise aos relatórios disponíveis no endereço do Painel de Extravios referente ao período  01/20 a 30/06/20, não foram encontrados registros de ocorrência "gestão automática" para os objetos listados no Pré alerta.MANENC 16/3
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>277</RIP_NumGrupo>
+		<RIP_NumItem>7</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			Em consulta realizada no Sistema de CIE Eletrônica do perído de 01/01/2020 a 30/06/2020 não foram constatadas inconformidades.MANENC 16/1
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>278</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			"Em pesquisa aos registros do Sistema PGP, não havia registros de HE para os últimos 3 meses.
+            Em análise aos registros do Sistema PGP e aos dados do Relatório “Arme e Desarme” do sistema de alarme, constataram-se que não há inconsistências quanto ao lançamento de serviços extras no PGP e na Unidade.
+            "MANPES 19/1; MANPES 19/2 , MANPES 19/1 - ANEXO 2
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>278</RIP_NumGrupo>
+		<RIP_NumItem>2</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>C</RIP_Resposta>
+		<RIP_Comentario>
+			"Em consulta aos adicionais pagos ao funcionário lotado na Unidade constatou-se o correto registro da rubrica no Sistema WebSGQ3.
+            "MANPES 8/5 - Anexo 2 e 3
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+	<Dados>
+		<RIP_Unidade>16300475</RIP_Unidade>
+		<RIP_NumInspecao>1601502020</RIP_NumInspecao>
+		<RIP_NumGrupo>500</RIP_NumGrupo>
+		<RIP_NumItem>1</RIP_NumItem>
+		<RIP_CodDiretoria>16</RIP_CodDiretoria>
+		<RIP_CodReop>16430837</RIP_CodReop>
+		<RIP_Ano>2020</RIP_Ano>
+		<RIP_Resposta>V</RIP_Resposta>
+		<RIP_Comentario>
+			Não existem neste momento, situações que ensejam aprimoramento. Além das que constam na presente Inspeção.
+Norma relativa ao Assunto abordado no apontamento.
+		</RIP_Comentario>
+		<RIP_Caractvlr>Não Quantificado</RIP_Caractvlr>
+		<RIP_Falta>0</RIP_Falta>
+		<RIP_Sobra>0</RIP_Sobra>
+		<RIP_EmRisco>0</RIP_EmRisco>
+		<RIP_DtUltAtu>14/11/2020</RIP_DtUltAtu>
+		<RIP_UserName>86892517</RIP_UserName>
+		<RIP_Recomendacoes> </RIP_Recomendacoes>
+		<RIP_ReincInspecao> </RIP_ReincInspecao>
+		<RIP_ReincGrupo> </RIP_ReincGrupo>
+		<RIP_ReincItem> </RIP_ReincItem>
+		<INP_HrsPreInspecao>4</INP_HrsPreInspecao>
+		<INP_DtInicDeslocamento>19/10/2020</INP_DtInicDeslocamento>
+		<INP_DtFimDeslocamento>14/11/2020</INP_DtFimDeslocamento>
+		<INP_HrsDeslocamento>0</INP_HrsDeslocamento>
+		<INP_DtInicInspecao>19/10/2020</INP_DtInicInspecao>
+		<INP_DtFimInspecao>14/11/2020</INP_DtFimInspecao>
+		<INP_HrsInspecao>6</INP_HrsInspecao>
+		<INP_Situacao>AN</INP_Situacao>
+		<INP_DtEncerramento>00:00:00</INP_DtEncerramento>
+		<INP_Coordenador>86892517</INP_Coordenador>
+		<INP_Responsavel>Eugênia Antônia de Souza</INP_Responsavel>
+		<INP_Motivo> </INP_Motivo>
+		<INP_Introducao> </INP_Introducao>
+		<INP_Conclusao> </INP_Conclusao>
+		<INP_Modalidade>1</INP_Modalidade>
+		<IPT_MatricInspetor>8689251783288082</IPT_MatricInspetor>
+		<IPT_NumHrsPreInsp>4 4</IPT_NumHrsPreInsp>
+		<IPT_NumHrsDesloc>0 0</IPT_NumHrsDesloc>
+		<IPT_NumHrsInsp>6 6</IPT_NumHrsInsp>
+	</Dados>
+</rootelement>
