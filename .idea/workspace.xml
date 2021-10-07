@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b2ae1ee3-a190-45e7-a1f1-6d3cb3e30ba5" name="Default Changelist" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Concessionarias/ConcessionariasController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Concessionarias/ConcessionariasController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/concessionarias/faturamento/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/concessionarias/faturamento/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -623,6 +625,19 @@
       <workItem from="1622324842835" duration="7907000" />
       <workItem from="1622394200609" duration="6399000" />
       <workItem from="1622418024467" duration="4128000" />
+      <workItem from="1622500885692" duration="1459000" />
+      <workItem from="1622553490976" duration="949000" />
+      <workItem from="1625663241712" duration="1720000" />
+      <workItem from="1625665033232" duration="633000" />
+      <workItem from="1625667876618" duration="743000" />
+      <workItem from="1628531348680" duration="644000" />
+      <workItem from="1628613429411" duration="594000" />
+      <workItem from="1628813376795" duration="16000" />
+      <workItem from="1629204567008" duration="776000" />
+      <workItem from="1631277651733" duration="742000" />
+      <workItem from="1631280825772" duration="4000" />
+      <workItem from="1633619575345" duration="987000" />
+      <workItem from="1633627316770" duration="1213000" />
     </task>
     <task id="LOCAL-00001" summary="3005-commit">
       <created>1622420934555</created>
@@ -652,7 +667,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
               <option name="FILTERS">
@@ -660,7 +675,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>

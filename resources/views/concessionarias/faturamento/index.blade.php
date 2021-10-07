@@ -68,7 +68,7 @@
                 <th>Descrição</th>
                 <th>Consumo</th>
                 <th>Valor Medido</th>
-                <th>Iluminacao Pub.</th>
+                <th>TUSD.</th>
                 <th>Outros Add.</th>
                 <th>Total Outros Add.</th>
                 <th>Total Geral</th>

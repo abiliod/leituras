@@ -26,15 +26,14 @@ class ConcessionariasController extends Controller
             ['id', '=', $id]
         ])
         ->first();
-
         $res=0;
-        if($registro->cod_medidor  == 'ENEL62L24FUNDOS'){
+        if($registro->cod_medidor  == 'ENEL62L22FUNDOS'){
             $res = DB::table('leituras')
                 ->where([
                     ['cod_medidor', '=', $registro->cod_medidor ]
                 ])
                 ->max('posicao');
-            $res=$res+72;
+            $res=$res+82;
         }
 
         if($registro->cod_medidor  == 'Y19162L24FUNDOS'){
@@ -43,7 +42,7 @@ class ConcessionariasController extends Controller
                     ['cod_medidor', '=', $registro->cod_medidor ]
                 ])
                 ->max('posicao');
-            $res=$res+5.;
+            $res=$res+5.5;
         }
 
         $leitura = new Leitura;
@@ -51,7 +50,9 @@ class ConcessionariasController extends Controller
         $leitura->posicao  = $res;
         $leitura->tipo_concessionaria  = $registro->tipo_concessionaria;
         $leitura->data  = null;
+//        dd($registro->cod_medidor, $res,$leitura);
         $leitura->save();
+
         return redirect()-> route('concessionarias.leituras');
     }
 
@@ -64,32 +65,25 @@ class ConcessionariasController extends Controller
         ->get();
 
         foreach($registros as $registro) {
-
-
             $res=0;
-
             if($registro->cod_medidor  == 'ENEL62L22FUNDOS'){
                 $res = DB::table('leituras')
                     ->where([
                         ['cod_medidor', '=', $registro->cod_medidor ]
                     ])
                     ->max('posicao');
-                $res=$res+70;
-
-                //          SELECT max(posicao)+72 FROM leituras where cod_medidor = '04128172';
+                $res=$res+82;
             }
-
             if($registro->cod_medidor  == 'ENEL62L22FRENTE'){
                 $res = DB::table('leituras')
                     ->where([
                         ['cod_medidor', '=', $registro->cod_medidor ]
                     ])
                     ->max('posicao');
-                $res=$res+77;
-
+                $res=$res+45;
                 //          SELECT max(posicao)+72 FROM leituras where cod_medidor = '04128172';
             }
-
+//            dd($registro->cod_medidor, $res);
 
             if($registro->cod_medidor  == 'Y19162L22FUNDOS'){
                 $res = DB::table('leituras')
@@ -97,7 +91,7 @@ class ConcessionariasController extends Controller
                         ['cod_medidor', '=', $registro->cod_medidor ]
                     ])
                     ->max('posicao');
-                $res=$res + 4.5;
+                $res=$res + 5.5;
             }
 
             if($registro->cod_medidor  == 'Y19162L22FRENTE'){
@@ -106,15 +100,13 @@ class ConcessionariasController extends Controller
                         ['cod_medidor', '=', $registro->cod_medidor ]
                     ])
                     ->max('posicao');
-                $res=$res+5.5;
+                $res=$res+9;
             }
-
-
-
             $leitura = new Leitura;
             $leitura->cod_medidor  = $registro->cod_medidor;
             $leitura->posicao  = $res;
             $leitura->tipo_concessionaria  = $registro->tipo_concessionaria;
+//            dd($registro->cod_medidor, $res,$leitura);
             $leitura->save();
         }
         return redirect()-> route('concessionarias.leituras');
